@@ -1,8 +1,8 @@
 .vs/
-BlazorApp2/bin/
-BlazorApp2/obj/
+BlazorAppServerRenderMode/BlazorApp2/bin/
+BlazorAppServerRenderMode/BlazorApp2/obj/
 *.user
-BlazorApp2/artifacts/
+BlazorAppServerRenderMode/BlazorApp2/artifacts/
 .vscode/
 .dotnet/
 *.binlog
